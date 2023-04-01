@@ -1,4 +1,4 @@
-# Compund interest calculator
+# Compound interest calculator
 
 principal_amount = 100 # Initial amount of savings
 interest = 2 # Percentage amount of interest compounded yearly
